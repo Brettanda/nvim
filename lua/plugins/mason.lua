@@ -11,7 +11,7 @@ return {
       "vue-language-server",
       "typescript-language-server",
       "prettierd",
-      "tailwindCSS",
+      "tailwindcss",
       -- "dot-language-server",
       -- "null-ls",
     },
